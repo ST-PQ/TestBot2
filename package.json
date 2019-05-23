@@ -1,0 +1,23 @@
+{
+  "name": "TestBot2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ST-PQ/TestBot2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ST-PQ/TestBot2/issues"
+  },
+  "homepage": "https://github.com/ST-PQ/TestBot2#readme",
+  "dependencies": {
+    "discord.js": "^11.5.0"
+  }
+}
